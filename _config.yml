@@ -1,5 +1,5 @@
 # main text of home
-name: Kampana Shashidhar
+name: Dr. Kampana S
 bio: A doctor who extends health care with modern tools
 
 # twitter summary info
@@ -42,7 +42,7 @@ twitter: mytwitter
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: skampana.github.io/doctor
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -50,7 +50,7 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: drkampana@gmail.com
 
 authors:
     johndoe:
