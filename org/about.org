@@ -1,0 +1,17 @@
+#+TITLE: Dr. Kampana S
+#+HTML_HEAD: <style type="text/css">body{ max-width:50%; margin:auto; }</style>
+#+OPTIONS: html-postamble:nil toc:nil
+
+@@html:<style> .figure-number { display: none; } </style> @@
+
+#+CAPTION: drkampana@gmail.com
+[[file:../assets/images/profile.jpg]]
+
++ M.B.B.S
++ Working at HealthCareMagic
+
+
+
+
+
+
