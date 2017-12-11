@@ -5,7 +5,7 @@
 @@html:<style> .figure-number { display: none; } </style> @@
 
 #+CAPTION: drkampana@gmail.com
-[[file:../assets/images/profile.jpg]]
+[[[[https://skampana.github.io/doctor/assets/images/profile.jpg][Profile]]
 
 I am a doctor graduated from "Vydehi Institute Of Medical Sciences And
 Research Centre". I have eight years of experience. Served at Jain
