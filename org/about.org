@@ -5,7 +5,7 @@
 @@html:<style> .figure-number { display: none; } </style> @@
 
 #+CAPTION: drkampana@gmail.com
-[[https://skampana.github.io/doctor/assets/images/profile.jpg][Profile]]
+[[https://skampana.github.io/doctor/assets/images/profile.jpg]]
 
 + M.B.B.S
 + Working at HealthCareMagic
