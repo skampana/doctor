@@ -1,0 +1,12 @@
+#+TITLE:    Dr. Kampana. S
+#+AUTHOR:  G. Srinivasachar
+#+EMAIL: drkampana@gmail.com
+#+DATE: 27 Dec 2017
+#+INCLUDE: header.org
+
+* Dr. Kampana. S, drkampana@gmail.com, 8746018090(M)
+* Click here and Leave your contact for us to call back.
+
+@@html:<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeAgtwAS2h7mVPDKWxwZmwi4Uj81BQFzHRGZ-NUBMcJL0LAiw/viewform?embedded=true" width="700" height="350" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>@@
+
+#+include: footer.org
