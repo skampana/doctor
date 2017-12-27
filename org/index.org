@@ -1,0 +1,15 @@
+#+TITLE:    Dr. Kampana. S
+#+AUTHOR:  G. Srinivasachar
+#+EMAIL: drkampana@gmail.com
+#+DATE: 27 Dec 2017
+#+INCLUDE: header.org
+
+@@html:<style> .figure-number { display: none; } </style> @@
+
+#+CAPTION: drkampana@gmail.com
+[[https://skampana.github.io/doctor/assets/images/profile.jpg]]
+
++ M.B.B.S
++ Working at HealthCareMagic
+
+#+include: footer.org

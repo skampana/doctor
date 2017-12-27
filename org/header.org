@@ -1,0 +1,12 @@
+#+HTML_HEAD: <style type="text/css">body{ max-width:50%; margin:auto;} p { text-align:justify;} </style>
+#+INFOJS_OPT: path:https://atrians.github.io/cse/org/org-info.js view:overview toc:nil mouse:#dddddd
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="mystyle.css" />
+#+OPTIONS: html-postamble:nil toc:t num:nil
+
+#+begin_menu
+@@html:<ul clas="menu"><li><a href="https://skampana.github.io/doctor">Home</a></li><li><a href="https://skampana.github.io/doctor/html/about.html">About</a></li><li><a href="https://skampana.github.io/doctor/html/resume.html">Resume</a></li><li><a href="https://skampana.github.io/doctor/html/blog.html">Blog</a></li><li style="float:right"><a href="https://skampana.github.io/doctor/html/contact.html">Contact</a></li></ul>@@
+#+end_menu
+
+
+
+

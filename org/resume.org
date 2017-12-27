@@ -1,6 +1,8 @@
-#+TITLE: Dr. Kampana S
-#+HTML_HEAD: <style type="text/css">body{ max-width:50%; margin:auto; }</style>
-#+OPTIONS: html-postamble:nil toc:nil
+#+TITLE:    Dr. Kampana. S
+#+AUTHOR:  G. Srinivasachar
+#+EMAIL: drkampana@gmail.com
+#+DATE: 27 Dec 2017
+#+INCLUDE: header.org
 
 @@html:<style> .figure-number { display: none; } </style> @@
 
@@ -9,8 +11,8 @@
 
 I am a doctor graduated from "Vydehi Institute Of Medical Sciences And
 Research Centre". I have eight years of experience. Served at Jain
-Hospital, Chaya Nursing home and Health care magic. I would like to
-learn practices of your hospital and serve further.
+Hospital, Chaya Nursing home and Health care magic. I am interested in
+modern practices in medicine to serve better.
 
 I did schooling at CMR National Public School, starting from pre
 primary, primary, high school and PUC.
@@ -20,5 +22,4 @@ arts and sports. I have married to Dr. Shashidhar, M.D, Consultant
 Spine Surgeon.
 
 
-
-
+#+include: footer.org

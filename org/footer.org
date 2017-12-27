@@ -1,0 +1,5 @@
+-----
+@@html:<span style="float: left;">&copy;2017-2020</span><span style="float:right;"><a href="http://facebook.com/kampana.srinivasachar"><img src="icons/facebook.png"/></a><a href="http://twitter.com/mytwitter"><img src="icons/twitter.png"/></a><a href="mailto:drkampana@gmail.com"><img src="icons/email.png"/></a><a href="tel:5551234567"><img src="icons/phone.png"/></a></span>@@
+
+
+
